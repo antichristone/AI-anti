@@ -2,7 +2,7 @@
 Telegram - [Antichrist (Creator)](https://t.me/antichristone), subscription or life?
 
 
-## Python3 [demo](https://t.me/antichristone/273)
+## Python3 [demo](https://t.me/antichristone/273) (algorithm)
 
 ```
 from neuron import AI
